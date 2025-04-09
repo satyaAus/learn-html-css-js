@@ -14,6 +14,10 @@ I am learning html, css and js
 
 ## day4
 
-![day3 screen print](./docs/images/day4.png)
+![day4 screen print](./docs/images/day4.png)
 
-![day3 screen print](./docs/images/day4b.png)
+![day4 screen print](./docs/images/day4b.png)
+
+## day5
+
+![day5 screen print](./docs/images/day5.png)
