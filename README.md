@@ -25,3 +25,7 @@ I am learning html, css and js
 ## day6 
 
 ![day6 screen print](./docs/images/day6.png)
+
+## day7
+
+![day7 screen print](./docs/images/day7.png)
